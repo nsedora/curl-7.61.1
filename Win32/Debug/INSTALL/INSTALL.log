@@ -1,0 +1,21 @@
+﻿  -- Install configuration: "Debug"
+  -- Installing: C:/Program Files (x86)/CURL/bin/curl-config
+  -- Installing: C:/Program Files (x86)/CURL/lib/pkgconfig/libcurl.pc
+  -- Installing: C:/Program Files (x86)/CURL/include/curl
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/curl.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/curlver.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/easy.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/mprintf.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/multi.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/stdcheaders.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/system.h
+  -- Installing: C:/Program Files (x86)/CURL/include/curl/typecheck-gcc.h
+  -- Installing: C:/Program Files (x86)/CURL/CMake/curl-config.cmake
+  -- Installing: C:/Program Files (x86)/CURL/CMake/curl-config-version.cmake
+  -- Installing: C:/Program Files (x86)/CURL/lib/libcurl-d_imp.lib
+  -- Installing: C:/Program Files (x86)/CURL/bin/libcurl-d.dll
+  -- Installing: C:/Program Files (x86)/CURL/CMake/libcurl-target.cmake
+  -- Installing: C:/Program Files (x86)/CURL/CMake/libcurl-target-debug.cmake
+  -- Installing: C:/Program Files (x86)/CURL/bin/curl.exe
+  -- Installing: C:/Program Files (x86)/CURL/CMake/curl-target.cmake
+  -- Installing: C:/Program Files (x86)/CURL/CMake/curl-target-debug.cmake

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+DLL Release - DLL Windows SSPI|x64|C:\Users\Nancy\source\repos\curl-7.61.1\projects\Windows\VC15\|

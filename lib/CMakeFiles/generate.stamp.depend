@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/Nancy/source/repos/curl-7.61.1/lib/CMakeLists.txt
+C:/Users/Nancy/source/repos/curl-7.61.1/lib/curl_config.h.cmake
+C:/Users/Nancy/source/repos/curl-7.61.1/lib/Makefile.inc.cmake

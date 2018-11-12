@@ -1,0 +1,21 @@
+﻿  -- Install configuration: "Release"
+  -- Up-to-date: C:/Program Files (x86)/CURL/bin/curl-config
+  -- Up-to-date: C:/Program Files (x86)/CURL/lib/pkgconfig/libcurl.pc
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/curl.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/curlver.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/easy.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/mprintf.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/multi.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/stdcheaders.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/system.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/include/curl/typecheck-gcc.h
+  -- Up-to-date: C:/Program Files (x86)/CURL/CMake/curl-config.cmake
+  -- Up-to-date: C:/Program Files (x86)/CURL/CMake/curl-config-version.cmake
+  -- Installing: C:/Program Files (x86)/CURL/lib/libcurl_imp.lib
+  -- Installing: C:/Program Files (x86)/CURL/bin/libcurl.dll
+  -- Up-to-date: C:/Program Files (x86)/CURL/CMake/libcurl-target.cmake
+  -- Installing: C:/Program Files (x86)/CURL/CMake/libcurl-target-release.cmake
+  -- Installing: C:/Program Files (x86)/CURL/bin/curl.exe
+  -- Up-to-date: C:/Program Files (x86)/CURL/CMake/curl-target.cmake
+  -- Installing: C:/Program Files (x86)/CURL/CMake/curl-target-release.cmake
